@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "fire"
+    },
+    {
+      "id": "47008dab-cec9-448b-acf4-2f13eb1e83bc",
+      "name": "f",
+      "description": "f",
+      "element": "fire"
+    },
+    {
+      "id": "1b773d37-19a7-4cde-a185-ecba09286a22",
+      "name": "name",
+      "description": "7888",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
